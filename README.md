@@ -4,8 +4,8 @@
 
 ## Project Goal
 ----------------------------
-The goal of this project is to practice and familirise myself with data wrangling skills which include; Gathering, Assessment, Transformation, Cleaning, Visualisation and Analyis. These activities will be carried out on the twitter archive of the [@RateDogs](https://twitter.com/dog_rates) account. This account rates people's dogs with a humorous comment about the dogs.  
-This README summarises how I approached the data wrangling for this project and displays the visualization(s) which produced my insights.
+The goal of this project is to practice and improve my data wrangling skills which include; Gathering, Assessment, Transformation, Cleaning, Visualisation and Analyis. These activities will be carried out on the twitter archive of the [@RateDogs](https://twitter.com/dog_rates) account. This account rates people's dogs with humorous comments about the dogs.  
+This README summarises how I approached the data wrangling for this project and displays some visualization(s) which produced my insights.
 
 ![WeRateDogs](Images/-SBRbLoH_400x400.jpg)
 
